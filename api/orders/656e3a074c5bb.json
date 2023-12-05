@@ -1,0 +1,1 @@
+{"orderid":"656e3a074c5bb","order":{"order":[{"id":1,"name":"Product 1","desc":"Thiis is a sample product thats awesome. Makes you want to buy it.","price":1,"image":"item1.png","qty":1}],"total":2,"phone":"0748075877"},"stkreqres":{"requestId":"13409-25900856-1","errorCode":"400.002.02","errorMessage":"Bad Request - Invalid PhoneNumber"}}

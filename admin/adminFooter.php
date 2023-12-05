@@ -1,0 +1,1 @@
+<div id="pageFooter">Copyright | <a href="../index.php">BACK</a></div>
